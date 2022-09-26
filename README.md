@@ -2,7 +2,7 @@
 
 Modelagem de um contexto reduzido de e-commerce, utilizando variação de modelo entidade relacional.
 
-## Projeto 1: E-commerce [MER]
+## Projeto 1: [E-commerce](modelo-e_commerce/E-commerce-refined.png)
 
 ### DESCRIÇÃO
 
